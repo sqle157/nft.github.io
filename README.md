@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/sqle157/nft.github.io)
+- Live Site URL: [Here](https://sqle157.github.io/nft.github.io/)
 
 ### Built with
 
