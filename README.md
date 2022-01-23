@@ -29,5 +29,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Sang Le](https://github.com/sqle157)
+- Frontend Mentor - [@sqle157](https://www.frontendmentor.io/profile/sqle157)
